@@ -44,7 +44,7 @@ Student at **ENSIA** (National Higher School of Artificial Intelligence, Algeria
 
 ## GitHub Stats 🌺
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=BENSAOULALoubna&show_icons=true&theme=default&hide_border=true)
 
 ## Let's Connect 💐
 
