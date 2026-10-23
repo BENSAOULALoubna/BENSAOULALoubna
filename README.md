@@ -9,7 +9,7 @@ Student at **ENSIA** (National Higher School of Artificial Intelligence, Algeria
 - 🔍 I notice small details, and I believe they make the difference
 - ☁️ I'm a daydreamer, and a lot of my ideas start there
 
-## What I Work With 🌿
+## What I Work With 💻
 
 **AI / Data**
 ![Python](https://img.shields.io/badge/Python-c9a7b8?style=flat-square)
